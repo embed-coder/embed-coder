@@ -6,7 +6,7 @@ Something about me:
 
 - 🔭 Passion in programming, interesting in architecture solution for a large scale of Software system
 - 🌱 Actively learning and exploring new thing every day
-- 👯 Leading IoT projects
+- 👯 Leading IoT developments
 - 🚒 Senior Software Engineer
 - 🎓 Bachelor of Computer Engineering
 - 📫 Love to talk and share about technology stuff
