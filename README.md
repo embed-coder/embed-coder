@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-My name is John Nguyen. Welcome to my github profile where you can find all ✨ _special_ ✨ tech thing I contribute to community and get to know me more through my tech stack.
+My name is John Nguyen. Welcome to my GitHub profile, where you can find all ✨ _special_ ✨ tech things I contribute to the community and get to know me more through my tech stack.
 
 Something about me:
 
-- 🔭 Passion in programming, interesting in architecture solution for a large scale of Software system
-- 🌱 Actively learning and exploring new thing every day
+- 🔭 Passion for programming, interested in architecture solutions for a large-scale of Software system
+- 🌱 Actively learning and exploring new things every day
 - 👯 Leading IoT developments
-- 🚒 DevOps Lead
-- 🎓 Bachelor of Computer Engineering
+- 🚒 Solution Architect
+- 🎓 Master in Science of Computer Engineering
 - 📫 Love to talk and share about technology stuff
-- ⚡ Fun fact: can swim in 1 hour non-stop
+- ⚡ Love swimming and badminton
